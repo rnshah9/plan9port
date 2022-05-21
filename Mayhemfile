@@ -1,0 +1,5 @@
+project: rnshah9/plan9port
+target: plan9port
+
+cmds:
+  - cmd: /repo/bin/fmt @@
