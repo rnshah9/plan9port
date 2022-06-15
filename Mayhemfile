@@ -1,4 +1,4 @@
-project: rnshah9/plan9port
+project: plan9port
 target: fmt
 
 cmds:
