@@ -2,4 +2,4 @@ project: plan9port
 target: fmt
 
 cmds:
-  - cmd: /repo/bin/fmt @@
+  - cmd: /fmt @@
