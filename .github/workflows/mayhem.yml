@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_fmt
+          - mayhem/Mayhemfile_utflen
 
     steps:
       - uses: actions/checkout@v3

@@ -1,0 +1,6 @@
+project: plan9port
+target: utflen
+
+cmds:
+  - cmd: /fuzz_utflen
+    libfuzzer: true
